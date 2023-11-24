@@ -1,5 +1,5 @@
 # ClusteredDataWarehouse
-This application is a data warehouse to analyse FX deals and persist them to an Sql database.
+This application is a data warehouse to analyse FX deals and persist them to a Postgres database.
 
 ## Requirement
 To run this application, you will need docker installed. Additionally, you should have make installed also clone the repository.
