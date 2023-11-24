@@ -7,6 +7,22 @@ To run this application, you will need docker installed. Additionally, you shoul
 #### Clone the Project
 https://github.com/Ebube-1/clusteredDataWarehouse.git
 
+#### Go to the project directory
+- cd clusteredDataWarehouse
+
+#### Run via Make
+- make dev
+
+#### Run via Docker
+- docker compose build
+- docker compose up
+
+##### Docker url
+http://localhost:8081
+
+##### localhost
+http://localhost:8080
+
 #### Swagger Link
 http://localhost:8080/swagger-ui/index.html
 
@@ -35,7 +51,7 @@ http://localhost:8080/swagger-ui/index.html
 | Field Name    | Data Type     |
 | ------------- | ------------- |
 |     code      |    String     |
-|    messages   |List of String |
+|    messages   |List of Strings|
 
 
 
