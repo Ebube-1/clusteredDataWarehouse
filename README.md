@@ -26,13 +26,18 @@ http://localhost:8080/swagger-ui/index.html
 |    amount     |   BigDecimal  |
 
 ## Success Response
-StatusCode 200
+| Field Name    | Data Type     |
+| ------------- | ------------- |
+|     code      |    String     |
+|    message    |    String     |
 
 ## Error Response
 | Field Name    | Data Type     |
 | ------------- | ------------- |
 |     code      |    String     |
 |    messages   |List of String |
+
+
 
 You can find me on 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ebube-chineke/)
